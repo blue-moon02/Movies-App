@@ -1,5 +1,7 @@
-# Movie App with JS
+### **Usage**
+**[View Live site](https://blue-moon02.github.io/Movies-App/)**
 
+# Movie App with JS
 
 ## **Description**
 Web application of consumption of an API with JS, searchMovie is a movie search engine based on the information of The MovieDB, the project was born as a practice, but became a project with ideas of being able to scale it to more and more functionalities.   
@@ -8,10 +10,6 @@ Using LocalStorage to save the movies that the user has already seen and using W
 
 
 https://user-images.githubusercontent.com/108760924/178819332-1d782595-0b18-40dc-bebd-f880a5b8bd64.mp4
-
-
-### **Usage**
-**[View Live site](https://blue-moon02.github.io/Movies-App/)**
 
 ### **Technologies Used:**
 JavaScript
