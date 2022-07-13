@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/108760924/178819332-1d782595-0b18-40dc
 
 
 ### **Usage**
-**[View Live site](https://github.com/blue-moon02)**
+**[View Live site](https://blue-moon02.github.io/Movies-App/)**
 
 ### **Technologies Used:**
 JavaScript
