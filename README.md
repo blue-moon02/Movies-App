@@ -7,6 +7,9 @@ With the API we can obtain Movie Details, Movie Poster, Name of the movie and Re
 Using LocalStorage to save the movies that the user has already seen and using Web Components to create the interface.
 
 
+https://user-images.githubusercontent.com/108760924/178819332-1d782595-0b18-40dc-bebd-f880a5b8bd64.mp4
+
+
 ### **Usage**
 **[View Live site](https://github.com/blue-moon02)**
 
